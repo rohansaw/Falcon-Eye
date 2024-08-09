@@ -1,0 +1,8 @@
+lightning
+pycocotools
+torchvision
+scikit-learn
+opencv-python
+wandb
+kornia
+grad-cam

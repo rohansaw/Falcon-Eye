@@ -1,0 +1,6 @@
+path: /data/sw/yolo
+train: train
+val: val
+
+names:
+  0: swimmer

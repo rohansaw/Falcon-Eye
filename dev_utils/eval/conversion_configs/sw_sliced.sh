@@ -1,0 +1,6 @@
+COCO_TRAIN_ANN="/data/sw_sliced/coco/annotations/instances_train-50percent_bg.json"
+COCO_TRAIN_IMG="/data/sw_sliced/coco/train"
+COCO_VAL_ANN="/data/sw_sliced/coco/annotations/instances_val.json"
+COCO_VAL_IMG="/data/sw_sliced/coco/val"
+YOLO_DIR="/data/sw_sliced/yolo"
+CONVERSION_INFO_FILE="/data/sw_sliced/yolo_conversion_info.json"

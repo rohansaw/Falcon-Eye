@@ -1,0 +1,14 @@
+{
+    "data_path": "dataset_spec/sw.yaml",
+    "image_size": [
+        2688,
+        1512
+    ],
+    "batch": 8,
+    "epochs": 200,
+    "single_cls": true,
+    "ds_name": "sw",
+    "model": "yolov8n-p2.yaml",
+    "pretrained": true,
+    "cache": true
+}

@@ -1,0 +1,9 @@
+num_classes: 2
+lr_warmup_init: 0.008
+learning_rate: 0.08
+mean_rgb: [70.4055, 108.4005, 143.922]
+stddev_rgb: [52.5299, 47.5320, 56.559]
+image_size: "2688x1512"
+label_map: {1: boat}
+is_training_bn: False
+use_keras_model: False

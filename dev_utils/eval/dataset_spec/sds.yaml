@@ -1,0 +1,11 @@
+path: /data/sds/yolo
+train: train
+val: test
+
+names:
+  0: ignored
+  1: swimmer
+  2: boat
+  3: jetski
+  4: life_saving_appliances
+  5: buoy

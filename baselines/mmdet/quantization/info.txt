@@ -1,0 +1,1 @@
+for single class sds onnx export, need to modify base_dense_head in mmdeploy/codebase/mmdet/models/... and set line 145 to True where it is about sigmoid

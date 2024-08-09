@@ -1,0 +1,5 @@
+ultralytics
+wandb
+protobuf==3.20.0
+tensorflow-cpu==2.13.1
+tensorflow==2.13.1

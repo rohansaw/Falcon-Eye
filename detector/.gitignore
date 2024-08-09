@@ -1,0 +1,14 @@
+lightning_logs
+results
+img_tests
+*.png
+*.jpg
+*.jpeg
+.vscode
+wandb
+my-detector
+output
+pred_images
+predictions_store
+predictions_store_baselines
+*.sarif

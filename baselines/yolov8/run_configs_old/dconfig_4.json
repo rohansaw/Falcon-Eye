@@ -1,0 +1,12 @@
+{
+    "data_path": "dataset_spec/sw_sliced.yaml",
+    "image_size": [
+        512,
+        512
+    ],
+    "batch": 256,
+    "epochs": 400,
+    "single_cls": true,
+    "ds_name": "sw_sliced",
+    "model": "yolov8n.pt"
+}

@@ -1,0 +1,7 @@
+num_classes: 5
+lr_warmup_init: 0.008
+learning_rate: 0.08
+mean_rgb: [108.7065, 123.8279, 114.9285]
+stddev_rgb: [41.769, 38.6325, 44.7525]
+image_size: "512x512"
+label_map: {1: swimmer, 2: boat, 3: jetski, 4: life_saving_appliances, 5: buoy}

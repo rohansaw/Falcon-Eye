@@ -1,0 +1,6 @@
+COCO_TRAIN_ANN="/data/sds/coco/annotations/instances_train.json"
+COCO_TRAIN_IMG="/data/sds/coco/train"
+COCO_VAL_ANN="/data/sds/coco/annotations/instances_val.json"
+COCO_VAL_IMG="/data/sds/coco/val"
+YOLO_DIR="/data/sds/yolo"
+CONVERSION_INFO_FILE="/data/sds/yolo_conversion_info.json"
