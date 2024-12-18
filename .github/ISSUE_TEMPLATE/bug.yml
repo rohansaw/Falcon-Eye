@@ -32,7 +32,6 @@ body:
     attributes:
       label: Screenshots or logs
       description: Provide screenshots or log output to help us diagnose the issue.
-  - type: dropdown
   - type: textarea
     attributes:
       label: Additional context
