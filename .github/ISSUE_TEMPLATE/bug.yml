@@ -1,8 +1,7 @@
 name: Bug Report
 description: Report a bug in the project
 title: "[BUG] "
-labels: bugsudo apt-get install -y libgdal-dev gdal-bin python3-gdal
-assignees: ''
+labels: bug
 
 body:
   - type: markdown
